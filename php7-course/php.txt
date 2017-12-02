@@ -1,5 +1,0 @@
-Arquivo de configuração do APACHE
-HTTPD.CONF
-
-Arquivo de configuração do PHP
-PHP.INI

@@ -1,0 +1,10 @@
+Arquivo de configuração do APACHE
+HTTPD.CONF
+--------------------------------------
+Arquivo de configuração do PHP
+PHP.INI
+--------------------------------------
+A partir do PHP7 você pode tratar 
+erros fatais de require e include com 
+try_catch!
+--------------------------------------
