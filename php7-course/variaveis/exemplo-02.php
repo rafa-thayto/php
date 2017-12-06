@@ -12,6 +12,8 @@
 
     echo "$nomeCompleto <br>";
 
+    // Comando isset serve para verificar se uma variável
+    // já foi definida
     if(isset($nome1)) {
         echo "$nome1";
     } else {
