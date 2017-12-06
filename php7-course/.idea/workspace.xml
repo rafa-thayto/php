@@ -36,11 +36,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exemplo-01.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exemplo-01.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/switch/exemplo-01.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo-01.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/for/exemplo-01.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo-02.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/for/exemplo-02.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -75,6 +95,8 @@
         <option value="$PROJECT_DIR$/variaveis/exemplo-02.php" />
         <option value="$PROJECT_DIR$/if/exercicio-01.php" />
         <option value="$PROJECT_DIR$/switch/exemplo-01.php" />
+        <option value="$PROJECT_DIR$/for/exemplo-01.php" />
+        <option value="$PROJECT_DIR$/for/exemplo-02.php" />
       </list>
     </option>
   </component>
@@ -113,6 +135,11 @@
             <path>
               <item name="php7-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="php7-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php7-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php7-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="for" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -163,12 +190,12 @@
       <workItem from="1512215052926" duration="7488000" />
       <workItem from="1512246333077" duration="3940000" />
       <workItem from="1512468185451" duration="111000" />
-      <workItem from="1512600253787" duration="1585000" />
+      <workItem from="1512600253787" duration="2518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14200000" />
+    <option name="totallyTimeSpent" value="15133000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,6 +451,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for/exemplo-01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for/exemplo-02.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
       </provider>
