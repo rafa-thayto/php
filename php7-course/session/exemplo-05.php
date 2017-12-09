@@ -19,7 +19,7 @@ switch (session_status()) {
         break;
     // = 1
     case PHP_SESSION_NONE:
-        echo "As sessões estão habilitadas, mas nenhuma exister";
+        echo "As sessões estão habilitadas, mas nenhuma existe";
         break;
     // = 2
     case PHP_SESSION_ACTIVE:
