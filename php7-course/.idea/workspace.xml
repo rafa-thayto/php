@@ -37,11 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exemplo-02.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exemplo-02.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/date/exemplo-02.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="204">
+              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="e#7#40#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo-03.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/date/exemplo-03.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/operadores/exemplo-03.php" />
         <option value="$PROJECT_DIR$/operadores/exemplo-04.php" />
         <option value="$PROJECT_DIR$/operadores/exemplo-05.php" />
         <option value="$PROJECT_DIR$/operadores/exemplo-06.php" />
@@ -111,6 +122,7 @@
         <option value="$PROJECT_DIR$/funcoes/exemplo-11.php" />
         <option value="$PROJECT_DIR$/date/exemplo-01.php" />
         <option value="$PROJECT_DIR$/date/exemplo-02.php" />
+        <option value="$PROJECT_DIR$/date/exemplo-03.php" />
       </list>
     </option>
   </component>
@@ -132,7 +144,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="718" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -157,6 +169,11 @@
             <path>
               <item name="php7-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="php7-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php7-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php7-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="date" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -227,12 +244,12 @@
       <workItem from="1512777117359" duration="447000" />
       <workItem from="1512820058344" duration="2496000" />
       <workItem from="1512850688464" duration="9226000" />
-      <workItem from="1512948006248" duration="1032000" />
+      <workItem from="1512948006248" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32704000" />
+    <option name="totallyTimeSpent" value="32998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,10 +261,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="718" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33282673" sideWeight="0.48673588" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23960613" sideWeight="0.48673588" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5070053" order="7" side_tool="true" content_ui="tabs" />
@@ -283,13 +300,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/operadores/exemplo-05.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/operadores/.php" />
     <entry file="file://$PROJECT_DIR$/operadores/exemplo-06.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -621,8 +631,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/date/exemplo-02.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#7#40#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date/exemplo-03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
